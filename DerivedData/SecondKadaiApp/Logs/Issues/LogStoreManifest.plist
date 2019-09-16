@@ -5,7 +5,34 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>271F65C5-FFE3-4F47-A9BE-6C8C6754EDF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>271F65C5-FFE3-4F47-A9BE-6C8C6754EDF7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SecondKadaiApp-aqrkskpdzhrpphcylqrmonbtumpo</string>
+			<key>timeStartedRecording</key>
+			<real>590339555.79227805</real>
+			<key>timeStoppedRecording</key>
+			<real>590339558.16361296</real>
+			<key>title</key>
+			<string>Build target SecondKadaiApp</string>
+			<key>uniqueIdentifier</key>
+			<string>271F65C5-FFE3-4F47-A9BE-6C8C6754EDF7</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
