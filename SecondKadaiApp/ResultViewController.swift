@@ -10,12 +10,17 @@ import UIKit
 
 class ResultViewController: UIViewController {
     @IBOutlet weak var label: UILabel!
+
+    // 変数textに1画面目のtextFieldに入力された値を格納
     var text = String()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "こんにちは \(text) さん"
+
         // Do any additional setup after loading the view.
+
+        // 「こんにちは "textFieldの入力値" さん」と出力する
+        label.text = "こんにちは \(text) さん"
     }
     
 

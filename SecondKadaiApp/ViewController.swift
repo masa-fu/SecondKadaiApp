@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         // segueから遷移先のResultViewControllerを取得する
         let resultViewController:ResultViewController = segue.destination as! ResultViewController
-        // 遷移先のResultViewController
+        // 遷移先のResultViewControllerで宣言しているtextにtextFieldの値を渡す
         resultViewController.text = textField.text!
     }
     
